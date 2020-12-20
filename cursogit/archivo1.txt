@@ -1,1 +1,2 @@
 Primero metemos el archivo que está en workspace, a staging
+Añadimos un texto introductorio al archivo 1

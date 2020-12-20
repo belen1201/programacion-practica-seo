@@ -1,2 +1,5 @@
 Primero metemos el archivo que está en workspace, a staging
 Añadimos un texto introductorio al archivo 1
+En esta rama, añadimos aquellas opciones que necesitemos comprobar:
+opción 1
+opción 2
